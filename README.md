@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thang</h1>
 <h3 align="center">A passionate fullstack developer from VietNam</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/102411654?v=4" alt="thangtd0101" /> </p>
 
 
 
